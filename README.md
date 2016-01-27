@@ -1,6 +1,5 @@
 TOUCH_EDUCATION
 ===============
-TouchDesigner 880 Course ::  Winter 2014
+TouchDesigner 880 Course ::  Winter 2014 and 2015
 
-Exemples :
-+ 3Folders
+
